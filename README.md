@@ -15,6 +15,10 @@ for the game).
 
 Feel free to explore, use the code as you see fit, and reach out with questions or suggestions.
 
+<img alt="NFSP" src="img/sample.png">
+
+Above is a sample plot of the training process of an NFSP agent in a Kuhn Poker environment. This is the average reward over the episodes against a Nash Equilibrium player.
+
 ## Installation
 
 I use `poetry` for dependency management. If you don't have it installed, you can install it by following the instructions [here](https://python-poetry.org/docs/).
